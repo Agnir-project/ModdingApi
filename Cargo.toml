@@ -9,3 +9,7 @@ edition = "2018"
 [dependencies]
 specs = { verions = "0.15.0", features = ["nightly"] }
 libloading = "0.5"
+
+[[example]]
+name = "loading"
+path = "examples/main.rs"
