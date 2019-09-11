@@ -1,8 +1,9 @@
 [package]
 name = "agnir_modding_api"
 version = "0.1.0"
-authors = ["Thomas \"nwmqpa\" Nicollet <thomas.nicolleŧ@epitech.eu>"]
+authors = ["Thomas \"nwmqpa\" Nicollet <thomas.nicollet@epitech.eu>"]
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
